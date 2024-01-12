@@ -1,0 +1,15 @@
+INICIO
+  Abrir o olho
+  Olhar a hora no celular
+  Se a hora for menor que 9h
+    Voltar a dormir
+  Levantar da cama
+  Sair do quarto
+  Ir até o banheiro
+  Lavar o rosto
+  Escovar os dentes
+  Sair do banheiro
+  Ir até a cozinha
+  Preparar café da manhã
+  Comer café da manhã
+FIM
