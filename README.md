@@ -6,3 +6,4 @@ Este é um repositório que contém todas as tarefas realizadas por mim que fora
   * [Hora de acordar](https://github.com/CrysLef/tarefas-ebac/tree/main/modulo-6/hora_de_acordar.txt): Tarefa utilizando pseudocódigo descrevendo o momento em que eu acordo.
   * [Classes](https://github.com/CrysLef/tarefas-ebac/tree/main/modulo-7/classes): Tarefa destinada a abstrair um objeto da vida real e criar uma classe, também contendo comentários.
   * [Cálculo média](https://github.com/CrysLef/tarefas-ebac/tree/main/modulo-8/calculoMedia): Tarefa com o objetivo de usar os operadores em Java, utilizando de um exemplo simples como o cálculo de uma média de 4 notas de um aluno.
+  * [Wrappers](https://github.com/CrysLef/tarefas-ebac/tree/main/modulo-9/wrappers): Tarefa voltada para conversão de uma variável do tipo primitivo para o seu respectivo tipo wrapper através da interação do usuário. 
