@@ -5,6 +5,7 @@ import br.com.cryslefundes.SplitText;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
+import java.util.stream.Collectors;
 
 public class Main {
     public static void main(String[] args) {
@@ -23,6 +24,15 @@ public class Main {
         String nameGender = leitura.nextLine();
 
         List<String> nameGenderList = splitText.splitString(nameGender,",");
+
+        // Streams:
+        System.out.println("***** Stream *****");
+        nameGenderList.stream()
+                .filter(p -> p.contains(" - F"))
+                .map(f -> f.split("-")[0])
+                .forEach(System.out::println);
+
+        System.out.println("***** Método convencional *****");
         List<String> listMasc = new ArrayList<>();
         List<String> listFem = new ArrayList<>();
         splitText.separateNameGender(nameGenderList, listMasc, listFem);
