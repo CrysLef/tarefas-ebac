@@ -11,3 +11,4 @@ Este é um repositório que contém todas as tarefas realizadas por mim que fora
   * [Abstract Factory](https://github.com/CrysLef/tarefas-ebac/tree/main/modulo-15/carAbstractFactory): Tarefa voltada a praticar sobre o design pattern de criação chamado Abstract Factory, com o exemplo de um aluguel de carro, dividido por categoria e contrato.
   * [Generics](https://github.com/CrysLef/tarefas-ebac/tree/main/modulo-17/genericsCar): Tarefa com o propósito de botar em prática o módulo relacionado a Generics em Java criando um exemplo onde é imprimido uma lista genérica de qualquer tipo de carro.
   * [Annotations](https://github.com/CrysLef/tarefas-ebac/tree/main/modulo-18/annotations): Tarefa destinada a fortalecer e praticar o uso de criação de annotations em Java.  
+  * [Testes](https://github.com/CrysLef/tarefas-ebac/tree/main/modulo-24/ClienteContratoTeste): Tarefa com o objetivo de realizar testes unitários em Java utilizando a biblioteca JUnit.
