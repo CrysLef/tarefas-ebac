@@ -1,8 +1,8 @@
-package br.com.cryslefundes;
+package br.com.cryslefundes.main;
 
 import java.util.*;
 
-public class Split<T> {
+public class Split {
 
     public static List<String> splitString(String text, String regex) {
         String[] textList = text.split(regex);
