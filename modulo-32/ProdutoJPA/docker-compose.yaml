@@ -1,0 +1,31 @@
+version: "3"
+
+services:
+  produto-postgres:
+    image: postgres
+    environment:
+      POSTGRES_DB: "tb_produtos"
+      POSTGRES_PASSWORD: "admin"
+      PGDATA: /var/lib/postgresql/data/psql
+    ports:
+      - "15432:5432"
+    volumes:
+      - /Users/crys/dev/docker/postgresql:/var/lib/postgresql/data
+    networks:
+      - produto-postgres-network
+
+  email-pgadmin:
+    image: dpage/pgadmin4
+    environment:
+      PGADMIN_DEFAULT_EMAIL: "funcionario@admin.com"
+      PGADMIN_DEFAULT_PASSWORD: "admin"
+    ports:
+      - "16543:80"
+    depends_on:
+      - produto-postgres
+    networks:
+      - produto-postgres-network
+
+networks:
+  produto-postgres-network:
+    driver: bridge
