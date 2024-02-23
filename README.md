@@ -12,3 +12,4 @@ Este é um repositório que contém todas as tarefas realizadas por mim que fora
   * [Generics](https://github.com/CrysLef/tarefas-ebac/tree/main/modulo-17/genericsCar): Tarefa com o propósito de botar em prática o módulo relacionado a Generics em Java criando um exemplo onde é imprimido uma lista genérica de qualquer tipo de carro.
   * [Annotations](https://github.com/CrysLef/tarefas-ebac/tree/main/modulo-18/annotations): Tarefa destinada a fortalecer e praticar o uso de criação de annotations em Java.  
   * [Testes](https://github.com/CrysLef/tarefas-ebac/tree/main/modulo-24/ClienteContratoTeste): Tarefa com o objetivo de realizar testes unitários em Java utilizando a biblioteca JUnit.
+  * [Hibernate e JPA](https://github.com/CrysLef/tarefas-ebac/tree/main/modulo-32/ProdutoJPA): Tarefa realizada com o objetivo de utilizar o JPA com o Hibernate, criando a entidade produto, os métodos de DAO e realizando teste.
