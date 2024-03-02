@@ -1,0 +1,40 @@
+version: "3"
+
+services:
+  ebac-postgres:
+    image: postgres
+    environment:
+      POSTGRES_PASSWORD: "admin"
+      PGDATA: /var/lib/postgresql/data/psql
+    ports:
+      - "15432:5432"
+    volumes:
+      - /Users/crys/dev/docker/postgresql:/var/lib/postgresql/data
+    networks:
+      - ebac-dois-db-network
+
+  ebac-pgadmin:
+    image: dpage/pgadmin4
+    environment:
+      PGADMIN_DEFAULT_EMAIL: "funcionario@admin.com"
+      PGADMIN_DEFAULT_PASSWORD: "admin"
+    ports:
+      - "16543:80"
+    depends_on:
+      - ebac-postgres
+    networks:
+      - ebac-dois-db-network
+
+  ebac-mysql:
+    image: mysql/mysql-server:latest
+    environment:
+      MYSQL_ROOT_PASSWORD: "root"
+      MYSQL_USER: "root"
+      MYSQL_PASSWORD: "root"
+      MYSQL_DATABASE: "cliente_db"
+    ports:
+      - "3306:3306"
+
+networks:
+  ebac-dois-db-network:
+    driver: bridge
