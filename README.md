@@ -15,3 +15,4 @@ Este é um repositório que contém todas as tarefas realizadas por mim que fora
   * [Hibernate e JPA](https://github.com/CrysLef/tarefas-ebac/tree/main/modulo-32/ProdutoJPA): Tarefa realizada com o objetivo de utilizar o JPA com o Hibernate, criando a entidade produto, os métodos de DAO e realizando teste.
   * [Relacionamento entre tabelas](https://github.com/CrysLef/tarefas-ebac/tree/main/modulo-33/relacionamentoTabela): Tarefa realizada com o propósito de praticar o relacionamento entre tabelas, como many to one, one to many, no postgresql utilizando JPA.
   * [Uso de dois DBs](https://github.com/CrysLef/tarefas-ebac/tree/main/modulo-36/usaDoisBancos): Tarefa concluída com o propósito de usar dois bancos distintos em uma mesma aplicação, no exemplo, estou utilizando PostgreSQL e MySQL.
+  * [Dependecias Maven](https://github.com/CrysLef/tarefas-ebac/tree/main/modulo-37/tarefaMaven): Tarefa destinada ao uso do Maven para o gerenciamento de dependências no projeto.
