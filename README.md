@@ -18,3 +18,4 @@ Este é um repositório que contém todas as tarefas realizadas por mim que fora
   * [Dependecias Maven](https://github.com/CrysLef/tarefas-ebac/tree/main/modulo-37/tarefaMaven): Tarefa destinada ao uso do Maven para o gerenciamento de dependências no projeto.
   * [Monolito web](https://github.com/CrysLef/tarefas-ebac/tree/main/modulo-38/monolitoWeb): Tarefa com o objetivo de criar um monolito utilizando arquitetura mvc, utilizando Wildfly como servidor e PrimeFaces para criar o layout, escrito pelo professor.
   * [Tomcat server](https://github.com/CrysLef/tarefas-ebac/tree/main/modulo-39/appTomcat): Tarefa com o propósito de subir uma aplicação em um servidor de escolha, no meu exemplo, foi o tomcat, apenas com um hello world.
+  * [Cliente Spring](https://github.com/CrysLef/tarefas-ebac/tree/main/modulo-40/clienteSpring): Tarefa voltada para o uso de spring boot, criando um projeto simples, apenas para conhecer o framework e testar seu funcionamento.
