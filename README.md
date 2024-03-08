@@ -17,3 +17,4 @@ Este é um repositório que contém todas as tarefas realizadas por mim que fora
   * [Uso de dois DBs](https://github.com/CrysLef/tarefas-ebac/tree/main/modulo-36/usaDoisBancos): Tarefa concluída com o propósito de usar dois bancos distintos em uma mesma aplicação, no exemplo, estou utilizando PostgreSQL e MySQL.
   * [Dependecias Maven](https://github.com/CrysLef/tarefas-ebac/tree/main/modulo-37/tarefaMaven): Tarefa destinada ao uso do Maven para o gerenciamento de dependências no projeto.
   * [Monolito web](https://github.com/CrysLef/tarefas-ebac/tree/main/modulo-38/monolitoWeb): Tarefa com o objetivo de criar um monolito utilizando arquitetura mvc, utilizando Wildfly como servidor e PrimeFaces para criar o layout, escrito pelo professor.
+  * [Tomcat server](https://github.com/CrysLef/tarefas-ebac/tree/main/modulo-39/appTomcat): Tarefa com o propósito de subir uma aplicação em um servidor de escolha, no meu exemplo, foi o tomcat, apenas com um hello world.
