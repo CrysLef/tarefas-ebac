@@ -1,0 +1,6 @@
+
+	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“ρα ψÿÿÿÿ8θΊ΅ªξ1J$062edf0e-feea-4c94-b869-0db16a729248
+
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Γφώÿÿÿÿ8ςΊ΅ªξ1J$20eaea7a-1e15-43dd-95e3-275472abcb3d
+‚
+java:S1118":Add a private constructor to hide the implicit public one.(Οϊ€όÿÿÿÿ8ςΊ΅ªξ1J$c88e2f69-0b5c-4417-a1fc-fc7db00f1779
