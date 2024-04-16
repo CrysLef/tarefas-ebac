@@ -20,4 +20,6 @@ Este é um repositório que contém todas as tarefas realizadas por mim que fora
   * [Tomcat server](https://github.com/CrysLef/tarefas-ebac/tree/main/modulo-39/appTomcat): Tarefa com o propósito de subir uma aplicação em um servidor de escolha, no meu exemplo, foi o tomcat, apenas com um hello world.
   * [Cliente Spring](https://github.com/CrysLef/tarefas-ebac/tree/main/modulo-40/clienteSpring): Tarefa voltada para o uso de spring boot, criando um projeto simples, apenas para conhecer o framework e testar seu funcionamento.
   * [Estrutura de dados](https://github.com/CrysLef/tarefas-ebac/tree/main/estruturaDeDados): Tarefa destinada a criar classes personalizadas de estruturas de dados, este é o módulo 1 do Java Pro.
-  * [Recursividade e Programação dinâmica](https://github.com/CrysLef/tarefas-ebac/tree/main/recursividade): Tarefa relacionada a construção de algoritmos que implementam recursividade pura e a de programação dinâmica com solução bottom up.                    
+  * [Recursividade e Programação dinâmica](https://github.com/CrysLef/tarefas-ebac/tree/main/recursividade): Tarefa relacionada a construção de algoritmos que implementam recursividade pura e a de programação dinâmica com solução bottom up.
+  * [Backtracking e Algoritmo guloso](https://github.com/CrysLef/tarefas-ebac/tree/main/backtrackingAlgGuloso):
+  Tarefa com o objetivo de resolver problemas utilizando backtracking e também algoritmo guloso.
