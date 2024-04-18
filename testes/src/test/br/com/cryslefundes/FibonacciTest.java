@@ -9,19 +9,19 @@ class FibonacciTest {
 
     @Test
     void retornaSequenciaFibonacci_HappyPath() {
-        long resultado = fibonacci.retornaSequenciaFibonacci(4);
+        long resultado = fibonacci.retornaElementoNaSequenciaFibonacci(4);
         assertEquals(3, resultado);
     }
 
     @Test
     void retornaSequenciaFibonacci_retornaZeroQuandoElementoEhZero() {
-        long resultado = fibonacci.retornaSequenciaFibonacci(0);
+        long resultado = fibonacci.retornaElementoNaSequenciaFibonacci(0);
         assertEquals(0, resultado);
     }
 
     @Test
     void retornaSequenciaFibonacci_retornaUmQuandoElementoEhUm() {
-        long resultado = fibonacci.retornaSequenciaFibonacci(1);
+        long resultado = fibonacci.retornaElementoNaSequenciaFibonacci(1);
         assertEquals(1, resultado);
     }
 
@@ -29,7 +29,7 @@ class FibonacciTest {
     void retornaSequenciaFibonacci_retornaErroAoPassarNumeroNegativo() {
         assertThrows(
                 ArrayIndexOutOfBoundsException.class,
-                () -> fibonacci.retornaSequenciaFibonacci(-1)
+                () -> fibonacci.retornaElementoNaSequenciaFibonacci(-1)
         );
     }
 }
