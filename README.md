@@ -23,3 +23,4 @@ Este é um repositório que contém todas as tarefas realizadas por mim que fora
   * [Recursividade e Programação dinâmica](https://github.com/CrysLef/tarefas-ebac/tree/main/recursividade): Tarefa relacionada a construção de algoritmos que implementam recursividade pura e a de programação dinâmica com solução bottom up.
   * [Backtracking e Algoritmo guloso](https://github.com/CrysLef/tarefas-ebac/tree/main/backtrackingAlgGuloso):
   Tarefa com o objetivo de resolver problemas utilizando backtracking e também algoritmo guloso.
+  * [Testes Unitários](https://github.com/CrysLef/tarefas-ebac/tree/main/testes): Tarefa onde foram criados testes unitários cobrindo cenários possíveis das classes Calculadora e Fibonacci.
